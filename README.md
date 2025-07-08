@@ -83,7 +83,7 @@ streamlit run app.py
 
 For questions or suggestions:
 **Kelvin Kyanula**
-\[kelvinfanuel@gmail.com]
+\[kelvinfanuel5@gmail.com]
 \[OFFICIALKEVINKEVOO]
 
 ---
