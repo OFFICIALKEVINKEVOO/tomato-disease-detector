@@ -1,4 +1,4 @@
-
+python 10
 streamlit
 torch
 torchvision
